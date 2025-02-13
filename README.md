@@ -1,3 +1,3 @@
 # What is this project about?
 
-Astronaut image of the day
+Consuming an API that returns astronaut image of the day and some other data
